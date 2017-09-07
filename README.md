@@ -1,21 +1,20 @@
-# word-translator
+# Word Translator
 
-> Simple translator app
+Word translator used Yandex API to translate words from English to any language listed on the app.
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+## Built With
 
-# serve with hot reload at localhost:8080
-npm run dev
+* [Vue JS](http://www.dropwizard.io/1.0.2/docs/) - The web front-end framework used
+* [Yandx](https://www.yandex.com/) - API
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Authors
+
+* [Mohanad Elhag](https://github.com/moh7afiz90)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
